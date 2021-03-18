@@ -1,0 +1,22 @@
+{
+  "name": "automation_project",
+  "version": "1.0.0",
+  "description": "challenge exercises 1st assigment",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./page_model/test/Login.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonXavis/TestCafe_automation.git"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonXavis/TestCafe_automation/issues"
+  },
+  "homepage": "https://github.com/DonXavis/TestCafe_automation#readme"
+}
